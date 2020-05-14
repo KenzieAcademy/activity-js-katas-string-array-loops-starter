@@ -11,8 +11,8 @@
      the letter guessed and "N" with the letter count).
   5. If the letter isn't found in the string, display on the page: "Nope, that
      letter doesn't exist in my word!"
-  6. OPTIONAL: Use an input textbox and click event listener to obtain
-     a guess from a user's input for Point 2.
+  6. OPTIONAL: Use an input textbox and click event listener to get user input
+     for the "letter" variable in Step 2.
 
   TIP: What do we mean by "display on the page"? `.innerHTML` could achieve
        this!
